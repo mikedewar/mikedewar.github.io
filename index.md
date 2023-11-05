@@ -1,5 +1,6 @@
 ---
 title: Mike Dewar
+theme: minima
 ---
 
 # Mike Dewar
