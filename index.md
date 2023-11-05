@@ -1,5 +1,6 @@
 ---
 title: Mike Dewar
+layout: base
 ---
 
 Hi!
