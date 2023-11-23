@@ -10,9 +10,9 @@ I build products based on algorithms, powered by data. I bring advanced techniqu
 
 * ![Mastercard Logo](images/ma.png) **Vice President of Data Science.** January 2018 onwards: Mastercard, Cyber & Intelligence.
 * **Director of Data Science.** May 2016 to January 2018: VocaLink, a Mastercard Company.
-* ![New York Times Logo](https://theme.zdassets.com/theme_assets/968999/51caa74a53a7c7d938c23ab40a5941798a5ccb79.svg)**Data Scientist.** January 2014 to March 2016 : New York Times R&D.
-* ![bitly logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bit.ly_Logo.svg/320px-Bit.ly_Logo.svg.png)**Senior Data Scientist.** May 2011 to December 2013 : bitly Inc.
-* ![Columbia logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Columbia_coat_of_arms_no_crest.png/301px-Columbia_coat_of_arms_no_crest.png) **Postdoctoral Researcher.** January 2010 to April 2011 : Columbia University,Department of Applied Physics and Applied Mathematics.
+* ![New York Times Logo](images/nyt.png)**Data Scientist.** January 2014 to March 2016 : New York Times R&D.
+* ![bitly logo](images/bitly.png)**Senior Data Scientist.** May 2011 to December 2013 : bitly Inc.
+* ![Columbia logo](images/columbia.png) **Postdoctoral Researcher.** January 2010 to April 2011 : Columbia University,Department of Applied Physics and Applied Mathematics.
 * ![Edinburgh logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/University_of_Edinburgh_ceremonial_roundel.svg/238px-University_of_Edinburgh_ceremonial_roundel.svg.png) **Postdoctoral Researcher.** July 2008 to December 2009 : University of Edinburgh, Adaptive and Neural Computation, School of Informatics.
 * ![Sheffield logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coat_of_arms_of_the_University_of_Sheffield.svg/202px-Coat_of_arms_of_the_University_of_Sheffield.svg.png) **Postdoctoral Researcher.** May 2007 to June 2008 : University of Sheffield, Department of Automatic Control & Systems Engineering and the Department of Computer Science.
 
