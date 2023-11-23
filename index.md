@@ -1,6 +1,5 @@
 ---
-title: Mike Dewar
-layout: home
+title: Dr Michael Dewar
 ---
 
 Hi!
