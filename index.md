@@ -2,9 +2,9 @@
 title: Dr Michael Dewar
 ---
 
-Hi!
-
 I build products based on algorithms, powered by data. I bring advanced techniques from data science together with mission-driven experts in order to build next generation products in novel domains.
+
+# Online Presence
 
 * [https://mastodon.online/@mikedewar](mastodon)
 * [https://github.com/mikedewar](github)
