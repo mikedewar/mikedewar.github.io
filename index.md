@@ -8,7 +8,8 @@ I build products based on algorithms, powered by data. I bring advanced techniqu
 
 # Employment
 
-* ![Mastercard Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mastercard_2019_logo.svg/320px-Mastercard_2019_logo.svg.png =x250) **Vice President of Data Science.** January 2018 onwards: Mastercard, Cyber & Intelligence.
+* ![Mastercard Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mastercard_2019_logo.svg/320px-Mastercard_2019_logo.svg.png) **Vice President of Data Science.** January 2018 onwards: Mastercard, Cyber & Intelligence.
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mastercard_2019_logo.svg/320px-Mastercard_2019_logo.svg.png" alt="drawing" height="1em"/> **Vice President of Data Science.** January 2018 onwards: Mastercard, Cyber & Intelligence.
 * **Director of Data Science.** May 2016 to January 2018: VocaLink, a Mastercard Company.
 * ![New York Times Logo](https://theme.zdassets.com/theme_assets/968999/51caa74a53a7c7d938c23ab40a5941798a5ccb79.svg)**Data Scientist.** January 2014 to March 2016 : New York Times R&D.
 * ![bitly logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bit.ly_Logo.svg/320px-Bit.ly_Logo.svg.png)**Senior Data Scientist.** May 2011 to December 2013 : bitly Inc.
