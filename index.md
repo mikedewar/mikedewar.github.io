@@ -8,7 +8,7 @@ I build products based on algorithms, powered by data. I bring advanced techniqu
 
 # Employment
 
-* **Vice President of Data Science.** January 2018 onwards: Mastercard, Cyber & Intelligence.
+* ![Mastercard Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mastercard_2019_logo.svg/320px-Mastercard_2019_logo.svg.png) **Vice President of Data Science.** January 2018 onwards: Mastercard, Cyber & Intelligence.
 * **Director of Data Science.** May 2016 to January 2018: VocaLink, a Mastercard Company.
 * **Data Scientist.** January 2014 to March 2016 : New York Times R&D.
 * **Senior Data Scientist.** May 2011 to December 2013 : bitly Inc.
