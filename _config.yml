@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Michael
+first_name: Dr Michael
 middle_name:
 last_name: Dewar
 email:
@@ -42,11 +42,11 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1800px
 
 # TODO: add layout settings (single page vs. multi-page)
 

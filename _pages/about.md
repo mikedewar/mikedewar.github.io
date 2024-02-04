@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Michael Dewar
 permalink: /
 subtitle: VP Data Science. Mastercard.
 
@@ -8,8 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
-
+  more_info: >
+    <ul>
+      <li> <a href="https://mastodon.online/@mikedewar">mastodon.online/@mikedewar</a></li>
+      <li> <a href="https://github.com/mikedewar">github.com/mikedewar</a></li>
+      <li> <a href="https://linkedin.com/in/mike-dewar-54007b205">linkedin.com/mikedewar</a></li>
+    </ul>
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,9 +22,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi! This site represents my online portfolio. It's an extended version of my [resume](https://github.com/mikedewar/resume/blob/master/README.md).
 
-# Product Focused Data Science
-
 I build products based on algorithms, powered by data. I bring advanced techniques from data science together with mission-driven experts in order to build next generation products in novel domains.
+
+# Experience
 
 ![Mastercard Logo](/assets/img/ma_small.png) &nbsp; **Vice President of Data Science.** January 2018 onwards: Mastercard, Cyber & Intelligence.
 
