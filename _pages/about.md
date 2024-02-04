@@ -8,7 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info : >
+* [mastodon](https://mastodon.online/@mikedewar)
+* [github](https://github.com/mikedewar)
+* [linkedin](https://linkedin.com/in/mike-dewar-54007b205)
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
