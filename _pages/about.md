@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! This site represents my online portfolio. It's an extended version of my [resume](https://github.com/mikedewar/resume/blob/master/README.md).
+Hi! This site represents my online portfolio. It's an extended version of my [resume](https://github.com/mikedewar/resume/blob/fdf7c9a06e3f6cea57c11e755b790b2036469123/cv_condensed.pdf).
 
 I build products based on algorithms, powered by data. I bring advanced techniques from data science together with mission-driven experts in order to build next generation products in novel domains.
 
