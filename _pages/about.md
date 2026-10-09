@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! This site represents my online portfolio. It's an extended version of my [resume](https://github.com/mikedewar/resume/blob/master/cv_condensed.pdf).
+Hi! This site represents my online portfolio. It's an extended version of my [resume](https://github.com/mikedewar/resume/blob/7266b0922f1098065a3204b9ab542d1709024be5/resume.pdf).
 
 I build products based on algorithms, powered by data. As a leader, I am innovation-focused: I articulate a clear vision of the future to generate alignment in my expert teams and stakeholders. I build trust in my teams through clear communication, transparent process, and a focus on impact. I am mission-oriented: my ethics are privacy-focused and derive from a strong sense of responsibility toward the communities my products are designed to serve.
 
