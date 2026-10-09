@@ -188,17 +188,17 @@ the communities around the disciplines I work within.
 
 # Patents
 
-- **Systems and methods for trending and relevance of phrases for a user** — US US9135211B2. Priority 2011-12-20; filed 2011-12-20; granted 2015-09-15; published 2015-09-15.
-- **Systems and methods for identifying phrases in digital content that are…** — US US9128896B2. Priority 2011-12-20; filed 2011-12-20; granted 2015-09-08; published 2015-09-08.
-- **Systems and methods for relevance scoring of a digital resource** — WO WO2013095755A3. Priority 2011-12-20; filed 2012-10-08; published 2014-05-30.
-- **An apparatus, computer program and method** — WO/EP/US/AU/CA/GB/IL GB2559775A. Priority 2017-02-17; filed 2017-02-17; published 2018-08-22.
-- **System and method for simulating network events** — WO/EP/US/SG EP3582437A1. Priority 2018-06-14; filed 2018-06-14; published 2019-12-18.
-- **An apparatus, computer program and method for real time tracing of transactions…** — WO/EP/US/BR/CA/DK/SG EP3629551B1. Priority 2018-09-28; filed 2018-09-28; granted 2022-08-31; published 2022-08-31.
-- **An apparatus, computer program and method** — WO/EP/US/BR/CA/DK/SG EP3629273B1. Priority 2018-09-28; filed 2018-09-28; granted 2022-03-02; published 2022-03-02.
-- **A method, apparatus and computer program for transaction destination…** — EP/US EP3716179A1. Priority 2019-03-29; filed 2019-03-29; published 2020-09-30.
-- **Data processing apparatus and method** — EP/US EP3772718A1. Priority 2019-08-08; filed 2019-08-08; published 2021-02-10.
-- **Detection of security threats in a network environment** — WO/EP/US EP3817316A1. Priority 2019-10-30; filed 2019-10-30; published 2021-05-05.
-- **Forensically analysing and determining a network associated with a network…** — EP/US EP3930280B1. Priority 2020-06-25; filed 2020-06-25; granted 2025-08-20; published 2025-08-20.
-- **Detection of security threats in a network environment** — CA3155704C. Priority 2019-10-30; filed 2020-10-29; granted 2026-05-12; published 2026-05-12.
-- **Method apparatus and computer program product for constructing a set of motifs…** — WO/EP/US/AU/CA/GB GB2609912A. Priority 2021-08-11; filed 2021-08-11; published 2023-02-22.
-- **Cross-network assessment of transactions for provider reputation** — WO/EP/US/CN/JP/KR US20230289803A1. Priority 2022-03-11; filed 2022-03-11; published 2023-09-14.
+- **Cross-network assessment of transactions for provider reputation** — WO/EP/US/CN/JP/KR [US20230289803A1](https://patents.google.com/patent/US20230289803A1/en). Priority 2022-03-11; filed 2022-03-11; published 2023-09-14.
+- **Method apparatus and computer program product for constructing a set of motifs for use in detecting messages of interest** — WO/EP/US/AU/CA/GB [GB2609912A](https://patents.google.com/patent/GB2609912A/en). Priority 2021-08-11; filed 2021-08-11; published 2023-02-22.
+- **Detection of security threats in a network environment** — [CA3155704C](https://patents.google.com/patent/CA3155704C/en). Priority 2019-10-30; filed 2020-10-29; granted 2026-05-12; published 2026-05-12.
+- **Forensically analysing and determining a network associated with a network security threat** — EP/US [EP3930280B1](https://patents.google.com/patent/EP3930280B1/en). Priority 2020-06-25; filed 2020-06-25; granted 2025-08-20; published 2025-08-20.
+- **Detection of security threats in a network environment** — WO/EP/US [EP3817316A1](https://patents.google.com/patent/EP3817316A1/en). Priority 2019-10-30; filed 2019-10-30; published 2021-05-05.
+- **Data processing apparatus and method** — EP/US [EP3772718A1](https://patents.google.com/patent/EP3772718A1/en). Priority 2019-08-08; filed 2019-08-08; published 2021-02-10.
+- **A method, apparatus and computer program for transaction destination verification** — EP/US [EP3716179A1](https://patents.google.com/patent/EP3716179A1/en). Priority 2019-03-29; filed 2019-03-29; published 2020-09-30.
+- **An apparatus, computer program and method for real time tracing of transactions through a distributed network** — WO/EP/US/BR/CA/DK/SG [EP3629551B1](https://patents.google.com/patent/EP3629551B1/en). Priority 2018-09-28; filed 2018-09-28; granted 2022-08-31; published 2022-08-31.
+- **An apparatus, computer program and method** — WO/EP/US/BR/CA/DK/SG [EP3629273B1](https://patents.google.com/patent/EP3629273B1/en). Priority 2018-09-28; filed 2018-09-28; granted 2022-03-02; published 2022-03-02.
+- **System and method for simulating network events** — WO/EP/US/SG [EP3582437A1](https://patents.google.com/patent/EP3582437A1/en). Priority 2018-06-14; filed 2018-06-14; published 2019-12-18.
+- **An apparatus, computer program and method** — WO/EP/US/AU/CA/GB/IL [GB2559775A](https://patents.google.com/patent/GB2559775A/en). Priority 2017-02-17; filed 2017-02-17; published 2018-08-22.
+- **Systems and methods for relevance scoring of a digital resource** — WO [WO2013095755A3](https://patents.google.com/patent/WO2013095755A3/en). Priority 2011-12-20; filed 2012-10-08; published 2014-05-30.
+- **Systems and methods for trending and relevance of phrases for a user** — US [US9135211B2](https://patents.google.com/patent/US9135211B2/en). Priority 2011-12-20; filed 2011-12-20; granted 2015-09-15; published 2015-09-15.
+- **Systems and methods for identifying phrases in digital content that are trending** — US [US9128896B2](https://patents.google.com/patent/US9128896B2/en). Priority 2011-12-20; filed 2011-12-20; granted 2015-09-08; published 2015-09-08.
