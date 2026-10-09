@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <ul>
-      <li> <a href="https://mastodon.online/@mikedewar">mastodon.online/@mikedewar</a></li>
       <li> <a href="https://github.com/mikedewar">github.com/mikedewar</a></li>
       <li> <a href="https://linkedin.com/in/mike-dewar-54007b205">linkedin.com/mikedewar</a></li>
     </ul>
@@ -54,13 +53,16 @@ in Control Systems Engineering. Awarded August 2002.
 
 **Mastercard** (London and New York 2016 onwards)
 
-At Mastercard and VocaLink, my teams built products and services based on the bank-to-bank payments that Mastercard processes. This work has mainly involved behavioural modelling aimed at detecting fraud and money laundering, and delivering country-scale products designed for real-world financial crime teams.
+At Mastercard and VocaLink, my teams built products and services based on the account-to-account and card based payments that Mastercard processes. This work has mainly involved behavioural modelling aimed at detecting fraud and money laundering, and delivering country-scale products designed for real-world financial crime teams.
 
 The majority of this work involved behavioural modelling aimed at detecting network-wide fraud and money laundering, using techniques from across data science. It resulted in three major products: a consumer scam detection service running over real-time payment systems, a corporate fraud detection service for batch payment systems, and a money mule-focused anti-money-laundering service for real-time payment systems.
 
 Over this period, I grew the team from 5 people to 35 at its peak. It has since been split apart and re-formed in Mastercard's standard organisational structure, where the new separate teams continue to receive investment.
 
+More recently, as part of Foundry - Mastercard's R&D unit - I have been involved in the development of the Agentic Trust and Intelligence project, looking to detect the behaviour of AI-based agents operating on the network.
+
 - **Agentic Trust & Intelligence**: Mastercard, Foundry. 2024-. Building out a full suite of products to address the observation, identification, and risk scoring of agents and agentic behaviour on Mastercard's global card network.
+  - Coverage: [Mastercard](https://www.mastercard.com/gb/en/news-and-trends/press/2026/september/new-trust-and-intelligence-services.html)
 - **Consumer Fraud Risk**: Financial Crime Solutions, Mastercard. 2022-. Consumer Fraud Risk provides a pre-payment API to detect scams on bank-to-bank payments. My team and I developed, built, and deployed the service in the years up to 2022. It is used by major UK banks, with TSB estimating the service will save the UK economy £100M per year.
   - Awards: Consumer Anti-Fraud Solution of the Year - Payments Awards 2023; Best Security or Anti-Fraud Development - The Card and Payments Awards 2024.
   - Coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2023-07-05/mastercard-s-ai-tool-helps-nine-british-banks-tackle-scams)
