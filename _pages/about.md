@@ -25,9 +25,9 @@ I build products based on algorithms, powered by data. As a leader, I am innovat
 
 # Experience
 
-![Mastercard Logo](/assets/img/ma_small.png) &nbsp; **Vice President of Data Science.** May 2024 onwards: Mastercard, Foundry.
+![Mastercard Logo](/assets/img/ma_small.png) &nbsp; **Vice President of Data Science.** August 2024 onwards: Mastercard, Foundry.
 
-![Mastercard Logo](/assets/img/ma_small.png) &nbsp; **Vice President of Data Science.** January 2018 to May 2024: Mastercard, Cyber & Intelligence.
+![Mastercard Logo](/assets/img/ma_small.png) &nbsp; **Vice President of Data Science.** January 2018 to August 2024: Mastercard, Cyber & Intelligence.
 
 ![Mastercard Logo](/assets/img//ma_small.png) &nbsp; **Director of Data Science.** May 2016 to January 2018: VocaLink, a Mastercard Company.
 
